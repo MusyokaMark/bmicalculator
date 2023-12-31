@@ -174,7 +174,7 @@ const Home = () => {
       {/* social media  */}
       <div className='max-w-2xl mx-auto'>
         <h1 className='text-center text-2xl font-bold'>Follow for More </h1>
-        <p className='text-center'>&copy; 2023 Your Website Name. All Rights Reserved.</p>
+        <p className='text-center'>&copy; 2023 Musyoka. All Rights Reserved.</p>
       </div>
     </>
 
