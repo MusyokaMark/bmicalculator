@@ -68,9 +68,9 @@ const Home = () => {
   return (
     <>
       <div className='text-blue-600 text-center font-bold text-5xl mt-6'>BMI CALCULATOR</div>
-      {/* <div>
+      <div>
         <p className='ml-6 mt-7 mr-6 text-center cursor-pointer text-sm'>BMI stands for Body Mass Index. It is a numerical value derived from a person's weight and height and is commonly used to categorize individuals into different weight status categories. BMI is a simple and widely used tool to estimate whether a person has a healthy body weight for their height.</p>
-      </div> */}
+      </div>
       {/* <div className='mt-6 ml-6 w-[50%'><Accordion /></div> */}
       <div className="w-full max-w-md mx-auto mt-7">
         <form className="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4" onSubmit={handleSubmit}>
